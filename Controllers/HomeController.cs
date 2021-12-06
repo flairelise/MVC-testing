@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BusinessDevProject.Models;
+using System.Data.SqlClient;
+using System.Data.SqlTypes;
+using WebMatrix.Data;
 
 namespace BusinessDevProject.Controllers
 {
@@ -33,6 +36,10 @@ namespace BusinessDevProject.Controllers
             return View();
         }
 
+        public IActionResult MovieList()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

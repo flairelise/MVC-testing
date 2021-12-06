@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {}
+    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {
+    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
+        "projectUniqueName": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
         "projectName": "BusinessDevProject",
-        "projectPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
+        "projectPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
         "packagesPath": "C:\\Users\\carys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\obj\\",
+        "outputPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "WebMatrix.Data": {
+              "target": "Package",
+              "version": "[2.0.30506, )"
+            },
+            "WebMatrix.WebData": {
+              "target": "Package",
+              "version": "[2.0.30506, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -37,3 +37,45 @@ C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.genruntimeconfig.cache
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CopyComplete
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\Filmatic - Web Deploy\profile.arm.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.exe
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.deps.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.runtimeconfig.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.runtimeconfig.dev.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.pdb
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.Views.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\BusinessDevProject.Views.pdb
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\WebMatrix.Data.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\WebMatrix.WebData.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csprojAssemblyReference.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.AssemblyInfoInputs.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.AssemblyInfo.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.RazorAssemblyInfo.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.RazorAssemblyInfo.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.TagHelpers.input.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.TagHelpers.output.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.RazorCoreGenerate.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Home\MovieList.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.RazorTargetAssemblyInfo.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.RazorTargetAssemblyInfo.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.Views.pdb
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CopyComplete
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\staticwebassets\BusinessDevProject.StaticWebAssets.Manifest.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\staticwebassets\BusinessDevProject.StaticWebAssets.xml
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.pdb
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.genruntimeconfig.cache

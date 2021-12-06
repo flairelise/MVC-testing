@@ -1,0 +1,50 @@
+﻿@using WebMatrix.Data
+@using WebMatrix.WebData
+@{ 
+    ViewData["Title"] = "Movies";
+}
+<h1>@ViewData["Title"]</h1>
+@{
+  
+    var db = Database.Open("SQLServerConnectionString");
+    var selectQueryString = "SELECT Movie_Name, Streamable, Release_Date, Duration FROM Movie ORDER BY Movie_Name";
+}
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Movies</title>
+    <style>
+        table, th, td {
+            border: solid 1px #bbbbbb;
+            border-collapse: collapse;
+            padding: 2px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Movie List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Streamable (Y/N)</th>
+                <th>Release Date</th>
+                <th>Duration</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var row in db.Query(selectQueryString))
+            {
+                <tr>
+                    <td>@row.Name</td>
+                    <td>@row.Streamable</td>
+                    <td>@row.Release Date</td>
+                    <td>@row.Duration</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
