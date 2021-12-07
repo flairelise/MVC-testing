@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<configuration>
-	<connectionStrings>
-		<add
-		  name="SQLServerConnectionString"
-		  connectionString= "server=ESSQL1.walton.uark.edu;database=PROJECTF2104;uid=PROJECTF2104;password=IU89spz$"
-		  providerName="System.Data.SqlClient" />
-	</connectionStrings>
-</configuration>

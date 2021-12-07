@@ -1,50 +1,43 @@
-﻿@using WebMatrix.Data
-@using WebMatrix.WebData
-@{ 
+﻿@{
     ViewData["Title"] = "Movies";
+    string[] TableHeaders = new string[] {"Name"
+                        ,"Streamable"
+                        ,"Release Date"
+                        ,"Duration"
+                                };
 }
-<h1>@ViewData["Title"]</h1>
-@{
-  
-    var db = Database.Open("SQLServerConnectionString");
-    var selectQueryString = "SELECT Movie_Name, Streamable, Release_Date, Duration FROM Movie ORDER BY Movie_Name";
-}
-<!DOCTYPE html>
 
-<html>
-
-<head>
-    <title>Movies</title>
-    <style>
-        table, th, td {
-            border: solid 1px #bbbbbb;
-            border-collapse: collapse;
-            padding: 2px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Movie List</h1>
-    <table>
+<div class="table">
+    <table class="table table-bordered table-hover">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Streamable (Y/N)</th>
-                <th>Release Date</th>
-                <th>Duration</th>
+                @{
+                    foreach (var head in TableHeaders)
+                    {
+                        <th>
+                            @head
+                        </th>
+                    }
+                }
             </tr>
         </thead>
+
         <tbody>
-            @foreach (var row in db.Query(selectQueryString))
-            {
-                <tr>
-                    <td>@row.Name</td>
-                    <td>@row.Streamable</td>
-                    <td>@row.Release Date</td>
-                    <td>@row.Duration</td>
-                </tr>
+            @{
+                if (Model != null)
+                {
+                    foreach (var Data in Model)
+                    {
+                        <tr>
+                            <td>@Data.Movie_Name</td>
+                            <td>@Data.Streamable</td>
+                            <td>@Data.Release_Date</td>
+                            <td>@Data.Duration</td>
+                            
+                        </tr>
+                    }
+                }
             }
         </tbody>
     </table>
-</body>
-</html>
+</div>
