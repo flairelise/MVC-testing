@@ -3,3 +3,6 @@
 ################################################################################
 
 /obj/Release/netcoreapp3.1/win-x86/PubTmp/Out
+/Properties/ServiceDependencies
+/bin/Release/netcoreapp3.1/win-x86/Properties/ServiceDependencies/local
+/bin/Release/netcoreapp3.1
