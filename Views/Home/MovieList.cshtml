@@ -1,12 +1,25 @@
 ﻿@{
     ViewData["Title"] = "Movies";
+
     string[] TableHeaders = new string[] {"Name"
                         ,"Streamable"
+                        ,"Genre"
                         ,"Release Date"
-                        ,"Duration"
+                        ,"Duration (min)"
                                 };
 }
+<div>
+   <h2>Movie List</h2>
+</div>
+<div>
+    <form asp-controller="Home" asp-action="MovieList" method="get">
+        <p>
+            Title: <input type="text" name="SearchString" />
+            <input type="submit" value="Filter" />
+        </p>
+    </form>
 
+</div>
 <div class="table">
     <table class="table table-bordered table-hover">
         <thead>
@@ -31,9 +44,10 @@
                         <tr>
                             <td>@Data.Movie_Name</td>
                             <td>@Data.Streamable</td>
+                            <td>@Data.Genre</td>
                             <td>@Data.Release_Date</td>
                             <td>@Data.Duration</td>
-                            
+
                         </tr>
                     }
                 }

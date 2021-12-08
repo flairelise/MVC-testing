@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {}
+    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {
+    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
+        "projectUniqueName": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
         "projectName": "BusinessDevProject",
-        "projectPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
+        "projectPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
         "packagesPath": "C:\\Users\\carys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\obj\\",
+        "outputPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.3, )"
