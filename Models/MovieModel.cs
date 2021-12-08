@@ -9,8 +9,13 @@ namespace BusinessDevProject.Models
     {
         public string Movie_Name { get; set; }
         public string Streamable { get; set; }
+        public string Genre { get; set; }
         public string Release_Date { get; set; }
         public string Duration { get; set; }
 
+    }
+    public class SearchModel
+    {
+        public string SearchInput { get; set; }
     }
 }

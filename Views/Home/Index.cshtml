@@ -1,20 +1,12 @@
 ﻿@{
     ViewData["Title"] = "Filmatic";
-}
-
+   
+} 
 <div class="text-center">
     <h1 class="display-4">Filmatic</h1>
     <p><a>Welcome to Filmatic. What are you watching?</a></p>
-
-    <!--Right now I just have the three buttons going to the privacy page to test that the buttons do work on click.-->
-    <button onclick="location.href='https://filmatic.azurewebsites.net/Home/Privacy'">User Login</button>
-    <button onclick="location.href='https://filmatic.azurewebsites.net/Home/Privacy'">Director Login</button>
-    <button onclick="location.href='https://filmatic.azurewebsites.net/Home/Privacy'">Skip Login</button>
-
-    <!--C: I have a suggestion, why not remove the different buttons and simplify to one login? In the backend we can see if they're
-        actually a director or not, but we don't necessarily need diff logins. Just a suggestion! I would do:
-        <button> button on click="location.href='https://filmatic.azurewebsites.net/Home/Login'">User Login</button>
-        It is a little redundant to have 2 places to log in, but most websites do that right??
-        
-        Btw the links only work once deployed. So the login link didn't work at first, but should now if you test locally!-->
+</div>
+<div class="text-center">
+    <img src="~/film-reel.png" alt="film reel" style="width:300px;height:300px;" />
+    
 </div>
