@@ -193,5 +193,11 @@ C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\EntityFramework.dll
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\System.CodeDom.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
