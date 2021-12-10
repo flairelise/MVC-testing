@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {}
+    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj": {
+    "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
+        "projectUniqueName": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
         "projectName": "BusinessDevProject",
-        "projectPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\BusinessDevProject.csproj",
+        "projectPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
         "packagesPath": "C:\\Users\\carys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carys\\OneDrive - University of Arkansas\\Business Development\\BusProjDev\\BusinessProjDev\\BusinessDevProject\\obj\\",
+        "outputPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.3, )"
@@ -79,6 +83,14 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Web.Http.Common": {
+              "target": "Package",
+              "version": "[4.0.20126.16343, )"
             },
             "WebMatrix.Data": {
               "target": "Package",

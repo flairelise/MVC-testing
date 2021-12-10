@@ -130,8 +130,6 @@ C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\run
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Properties\serviceDependencies.Filmatic - Web Deploy.json
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
-C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Properties\Web.config
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Properties\serviceDependencies.Filmatic - Web Deploy.json
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
@@ -201,3 +199,18 @@ C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\Filmatic - Web Deploy\secrets2.arm.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\local\secrets2.arm.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\EntityFramework.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.CodeDom.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Web.Http.Common.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\Details.cshtml.g.cs

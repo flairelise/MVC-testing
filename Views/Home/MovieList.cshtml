@@ -1,21 +1,31 @@
 ﻿@{
     ViewData["Title"] = "Movies";
 
-    string[] TableHeaders = new string[] {"Name"
+    string[] TableHeaders = new string[] {"Movie Title"
+                        ,"Director"
                         ,"Streamable"
                         ,"Genre"
                         ,"Release Date"
                         ,"Duration (min)"
+                        ,"Info"
                                 };
 }
+
 <div>
    <h2>Movie List</h2>
 </div>
 <div>
     <form asp-controller="Home" asp-action="MovieList" method="get">
         <p>
-            Title: <input type="text" name="SearchString" />
-            <input type="submit" value="Filter" />
+            <div class="input-group mb-3">
+
+                <input type="text" class="form-control" placeholder="Movie Title..." name="SearchString" />
+                <div class="input-group-append">
+                    <span>
+                        <input type="submit" class="btn btn-info" value="Search" />
+                    </span>
+                </div>
+            </div>
         </p>
     </form>
 
@@ -43,10 +53,12 @@
                     {
                         <tr>
                             <td>@Data.Movie_Name</td>
-                            <td>@Data.Streamable</td>
+                            <td>@Data.Director_Name</td>
+                            <td>@Data.Streamable</td> 
                             <td>@Data.Genre</td>
                             <td>@Data.Release_Date</td>
                             <td>@Data.Duration</td>
+                            <td>@Html.ActionLink("Details", "Details", new { id = Data.Movie_ID} )</td>
 
                         </tr>
                     }
