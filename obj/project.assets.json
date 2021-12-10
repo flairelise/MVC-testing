@@ -6973,11 +6973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
+      "projectUniqueName": "C:\\Users\\carys\\source\\repos\\flairelise\\BusinessDevOpsFinalProj\\BusinessDevProject.csproj",
       "projectName": "BusinessDevProject",
-      "projectPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
+      "projectPath": "C:\\Users\\carys\\source\\repos\\flairelise\\BusinessDevOpsFinalProj\\BusinessDevProject.csproj",
       "packagesPath": "C:\\Users\\carys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\obj\\",
+      "outputPath": "C:\\Users\\carys\\source\\repos\\flairelise\\BusinessDevOpsFinalProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carys\\AppData\\Roaming\\NuGet\\NuGet.Config",

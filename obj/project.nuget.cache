@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsNdT/6cbAon8UBIkudKY7QxMM6JQNUdpUsHCwmV64e2mmXzMUHih7zNSQLufNQ3TlE2jzY+JfoRm/POx5z7vg==",
+  "dgSpecHash": "qTQRtwlEkhle8ZqDieYaQgJBz3pj8oEchFTIw+pY+ZgcYAT6cyHUWv9QXaGvFY/qamtI1aPGYF7iargl7wfLag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carys\\source\\repos\\flairelise\\MVC-testing\\BusinessDevProject.csproj",
+  "projectFilePath": "C:\\Users\\carys\\source\\repos\\flairelise\\BusinessDevOpsFinalProj\\BusinessDevProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carys\\.nuget\\packages\\azure.core\\1.15.0\\azure.core.1.15.0.nupkg.sha512",
     "C:\\Users\\carys\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.0.0\\azure.extensions.aspnetcore.configuration.secrets.1.0.0.nupkg.sha512",
