@@ -211,6 +211,7 @@ C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\Sys
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Memory.Data.dll
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Web.Http.Common.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\Details.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.csproj.CoreCompileInputs.cache
 C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\BusinessDevProject.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Release\netcoreapp3.1\Razor\Views\Shared\Details.cshtml.g.cs

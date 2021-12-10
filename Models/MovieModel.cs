@@ -14,6 +14,9 @@ namespace BusinessDevProject.Models
         public string Genre { get; set; }
         public string Release_Date { get; set; }
         public string Duration { get; set; }
+        public string Rating { get; set; }
+        public string Review { get; set; }
+
 
     }
     public class SearchModel

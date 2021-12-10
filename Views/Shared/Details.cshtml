@@ -7,55 +7,104 @@
         <h4>Details</h4>
 
     </div>
-</form>  
+</form>
 <div class="container-fluid">
     @{
 
+
+
         if (Model != null)
         {
+
+
             foreach (var Data in Model)
             {
-                <div class="flex-row">
-                    <div class="col-sm">Title: @Data.Movie_Name</div>
-                    <div class="col-sm">Director: @Data.Director_Name</div>
-                    <div class="col-sm">Is Streamable: @Data.Streamable</div>
-                </div>
-                <div class="flex-row">
-                    <div class="col-sm">Genre: @Data.Genre </div>
-                    <div class="col-sm">Release Date: @Data.Release_Date </div>
-                    <div class="col-sm">Duration: @Data.Duration minutes </div>
-                </div>
+                for (int i = 0; i < 1; i++)
+                {
+                    <div class="container">
+                        <div class="row">Title: @Data.Movie_Name</div>
+                        <div class="row">Director: @Data.Director_Name</div>
+                        <div class="row">Is Streamable: @Data.Streamable</div>
+                        <div class="row">Genre: @Data.Genre </div>
+                        <div class="row">Release Date: @Data.Release_Date </div>
+                        <div class="row">Duration: @Data.Duration minutes </div>
+                    </div>
 
+                }
+                break;
+            }
+
+
+            double x = 0;
+            double y = 0;
+
+            foreach (var Data in Model)
+            {
+
+
+                x = x + Convert.ToDouble(@Data.Rating);
+                y = y + 1;
+
+            }
+
+            x = x / y;
+
+            <div class="container">
+                <div class="row">Avg. Rating: @x </div>
+            </div>
+        }
+
+    }
+
+</div>
+<p></p>
+<p></p>
+<h5>Rate Movie?</h5>
+
+<div class="container">
+
+    <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+        <div class="btn-group mr-2" role="group" aria-label="First group">
+            <a class="btn btn-info" href="@Url.Action("Rate1","Home")">1</a>
+            <a class="btn btn-info" href="@Url.Action("Rate2","Home")">2</a>
+            <a class="btn btn-info" href="@Url.Action("Rate3","Home")">3</a>
+            <a class="btn btn-info" href="@Url.Action("Rate4","Home")">4</a>
+            <a class="btn btn-info" href="@Url.Action("Rate5","Home")">5</a>
+            <a class="btn btn-info" href="@Url.Action("Rate6","Home")">6</a>
+            <a class="btn btn-info" href="@Url.Action("Rate7","Home")">7</a>
+            <a class="btn btn-info" href="@Url.Action("Rate8","Home")">8</a>
+            <a class="btn btn-info" href="@Url.Action("Rate9","Home")">9</a>
+            <a class="btn btn-info" href="@Url.Action("Rate10","Home")">10</a>
+        </div>
+    </div>
+</div>
+
+
+@{
+
+    <p></p>
+
+    <form>
+        <div class="form-group">
+            <label for="ratingBox">Comment:</label>
+            <textarea class="form-control" id="ratingBox" name="ratingBox" rows="1" maxlength="100"></textarea>
+            <span>
+                <input type="submit" class="btn btn-info" value="Submit" />
+            </span>
+        </div>
+    </form>
+
+    <p></p>
+    <h5>Recent Comments:</h5>
+    foreach (var Data in Model)
+    {
+        if (Data != null || Data != "")
+        {
+        <input class="form-control" type="text" placeholder="@Data.Review" readonly>
             }
         }
     }
-    <h5>Rate Movie?</h5>
 
-    <div class="container">
-
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="1star">
-            <label class="form-check-label" for="inlineRadio1">1 Stars</label>
-        </div>
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="2star">
-            <label class="form-check-label" for="inlineRadio2">2 Stars</label>
-        </div>
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="3star">
-            <label class="form-check-label" for="inlineRadio3">3 Stars</label>
-        </div>
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio4" value="4star">
-            <label class="form-check-label" for="inlineRadio3">4 Stars</label>
-        </div>
-        <div class="form-check form-check-inline">
-            <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio5" value="5star">
-            <label class="form-check-label" for="inlineRadio3">5 Stars</label>
-        </div>
-        <input type="submit" class="btn btn-info form-inline" value="Rate" />
-    </div>
-  
 
 
 

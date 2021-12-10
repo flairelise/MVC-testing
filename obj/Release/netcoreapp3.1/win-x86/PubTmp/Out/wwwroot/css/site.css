@@ -10,13 +10,13 @@ a.navbar-brand {
 
 /* Provide sufficient contrast against white background */
 a {
-    color: #fff;
+    color: #1b6ec2;
    
 }
 
 
 .btn-primary {
-  color: #fff;
+  color: #1861ac;
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
@@ -28,9 +28,9 @@ button{
 }
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #000000;
-  border-color: #000000;
+  color: #1b6ec2;
+  background-color: #1861ac;
+  border-color: #1861ac;
   
 }
 

@@ -210,3 +210,16 @@ C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Debug\netcoreapp3.1\BusinessDevProject.Properties.Resources.resources
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Debug\netcoreapp3.1\BusinessDevProject.csproj.GenerateResource.cache
 C:\Users\carys\OneDrive - University of Arkansas\Business Development\BusProjDev\BusinessProjDev\BusinessDevProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieList.cshtml.g.cs
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Filmatic - Web Deploy\secrets2.arm.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\secrets2.arm.json
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\bin\Debug\netcoreapp3.1\System.Web.Http.Common.dll
+C:\Users\carys\source\repos\flairelise\MVC-testing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Details.cshtml.g.cs
